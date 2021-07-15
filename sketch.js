@@ -30,7 +30,7 @@ function preload(){
     loadingImg = loadImage("assets/loading.gif");
     
     //the default sound
-    sound = loadSound("assets/Namfon.flac");
+    sound = loadSound("assets/Namfon.mp3");
     
      //images are from https://unsplash.com/photos/qtRF_RxCAo0
     //backImg = loadImage("assets/b0.jpg");
