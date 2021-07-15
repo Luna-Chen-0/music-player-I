@@ -53,7 +53,7 @@ function successBack(){
 //the error callback of uploading a sound
 function errorBack(err){
     alert("can not load the file:  " + err);
-    sound = loadSound('assets/Namfon.flac');
+    sound = loadSound('assets/Namfon.mp3');
     newSoundLoaded = false;
 }
 
